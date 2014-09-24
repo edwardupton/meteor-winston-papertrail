@@ -1,5 +1,8 @@
 meteor-winston-papertrail
 ===============
+
+Updated from Stuart Fenton's version to work with Meteor 0.9
+
 A wrapper around [winston-papertrail](https://github.com/kenperkins/winston-papertrail) for using [Papertrail](https://papertrailapp.com) transport with [winston](https://github.com/flatiron/winston.git) for use with [Meteorite](https://github.com/oortcloud/meteorite) on top of [Meteor](http://meteor.com) :)
 
 
